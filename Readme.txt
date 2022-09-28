@@ -5,7 +5,4 @@ For this task i have used 3 classses.
 
 I have tried in another repo by commiting at regular interval but gone through some technical glitch so just commited in another repo at once.
 
-
-Please give the feedback early if possible as I am serving Notice Period.
-
 !! Thank You !!
